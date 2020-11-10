@@ -125,3 +125,8 @@ nav#menu a:hover {
     color: #ffffff;
     text-decoration: underline;
 }
+
+section#corpo {
+    display: block;
+    width: 600px;
+}
