@@ -1,4 +1,3 @@
-window.onload = function () {
-    console.log("Olá Mundo!");
-    
+function mudaFoto(foto) {
+    document.getElementById("icone").src = foto;
 }
