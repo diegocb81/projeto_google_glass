@@ -47,3 +47,8 @@ fieldset#mensagem {
 fieldset#pedido {
     background: url(../_img/icone_pagamento.png) no-repeat 95% 95%;
 }
+
+input#botao {
+    margin-left: 14px;
+    margin-bottom: 6px;
+}
